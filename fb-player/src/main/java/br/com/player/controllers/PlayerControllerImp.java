@@ -1,7 +1,6 @@
 package br.com.player.controllers;
 
 import br.com.player.domain.DTO.PlayerDTO;
-import br.com.player.domain.entities.Player;
 import br.com.player.exceptions.BadRequestPlayer;
 import br.com.player.services.PlayerService;
 import org.springframework.beans.factory.annotation.Autowired;
